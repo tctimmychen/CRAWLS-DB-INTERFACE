@@ -1,0 +1,13 @@
+@import url("http://fonts.googleapis.com/css?family=Century Gothic:400,300,700");
+
+body {
+     font-family: 'Century Gothic', sans-serif !important;
+}
+
+.navbar-brand{
+     font-size: 6vmin !important;
+}
+
+.shadow{
+     box-shadow: 0 50px black;
+}
